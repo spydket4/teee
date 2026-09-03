@@ -1,0 +1,4 @@
+C:\Users\admin\Downloads\hgiohk\obj\Debug\net10.0\hgiohk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\hgiohk\obj\Debug\net10.0\hgiohk.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\hgiohk\obj\Debug\net10.0\hgiohk.AssemblyInfo.cs
+C:\Users\admin\Downloads\hgiohk\obj\Debug\net10.0\hgiohk.csproj.CoreCompileInputs.cache

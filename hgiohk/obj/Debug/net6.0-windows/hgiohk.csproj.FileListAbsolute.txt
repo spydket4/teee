@@ -1,0 +1,14 @@
+c:\Users\admin\Downloads\hgiohk\obj\Debug\net6.0-windows\hgiohk.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\admin\Downloads\hgiohk\obj\Debug\net6.0-windows\hgiohk.AssemblyInfoInputs.cache
+c:\Users\admin\Downloads\hgiohk\obj\Debug\net6.0-windows\hgiohk.AssemblyInfo.cs
+c:\Users\admin\Downloads\hgiohk\obj\Debug\net6.0-windows\hgiohk.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\hgiohk\bin\Debug\net6.0-windows\hgiohk.exe
+C:\Users\admin\Downloads\hgiohk\bin\Debug\net6.0-windows\hgiohk.deps.json
+C:\Users\admin\Downloads\hgiohk\bin\Debug\net6.0-windows\hgiohk.runtimeconfig.json
+C:\Users\admin\Downloads\hgiohk\bin\Debug\net6.0-windows\hgiohk.dll
+C:\Users\admin\Downloads\hgiohk\bin\Debug\net6.0-windows\hgiohk.pdb
+C:\Users\admin\Downloads\hgiohk\obj\Debug\net6.0-windows\hgiohk.dll
+C:\Users\admin\Downloads\hgiohk\obj\Debug\net6.0-windows\refint\hgiohk.dll
+C:\Users\admin\Downloads\hgiohk\obj\Debug\net6.0-windows\hgiohk.pdb
+C:\Users\admin\Downloads\hgiohk\obj\Debug\net6.0-windows\hgiohk.genruntimeconfig.cache
+C:\Users\admin\Downloads\hgiohk\obj\Debug\net6.0-windows\ref\hgiohk.dll

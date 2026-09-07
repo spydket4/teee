@@ -4,7 +4,7 @@
     "Username": "admin",
     "Password": "123",
     "Role": "\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440",
-    "IsBlocked": true,
+    "IsBlocked": false,
     "FailedAttempts": 0
   }
 ]
